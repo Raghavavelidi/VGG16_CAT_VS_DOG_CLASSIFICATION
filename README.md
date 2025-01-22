@@ -45,7 +45,7 @@ Clone this repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/yourusername/dog-vs-cat-vgg16.git
+git clone https://github.com/raghavavelidi/dog-vs-cat-vgg16.git
 cd dog-vs-cat-vgg16
 Download the Dogs vs Cats dataset from Kaggle and extract the images into the train/ directory.
 
