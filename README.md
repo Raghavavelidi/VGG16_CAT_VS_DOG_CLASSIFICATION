@@ -45,8 +45,7 @@ Clone this repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/raghavavelidi/dog-vs-cat-vgg16.git
-cd dog-vs-cat-vgg16
+git clone https:https://github.com/Raghavavelidi/VGG16_CAT_VS_DOG_CLASSIFICATION.git
 Download the Dogs vs Cats dataset from Kaggle and extract the images into the train/ directory.
 
 Install required Python dependencies:
